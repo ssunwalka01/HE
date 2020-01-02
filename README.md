@@ -1,2 +1,1 @@
 # HackerEarth Challenge
-Task
