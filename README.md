@@ -1,2 +1,2 @@
-# HE
+# HackerEarth Challenge
 Task
